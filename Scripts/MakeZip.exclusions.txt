@@ -1,0 +1,5 @@
+*.bak
+*.backup
+*.rej
+*.zip
+*.7z
