@@ -1,3 +1,7 @@
+![TDoR 2018 Memorial cards](media/memorial_cards.jpg "TDoR 2018 Memorial cards")
+  At the TDoR 2018 vigil in Bournemouth we used memorial cards to help everyone visualise those we we remembering.
+
+
 This is a short speech I gave at the Transgender Day of Remembrance (TDoR) vigil held in Bournemouth, UK on Tuesday 20th November 2018.
 
 I thought I would reproduce here in case anyone else finds it useful in future.
@@ -48,10 +52,20 @@ I thought I would reproduce here in case anyone else finds it useful in future.
 >
 > Thank you.
 
+----
+
+
 ***Footnote***: The memorial cards we used (all 419 of them, each individually printed and laminated) were produced using the website at **[https://tdor.translivesmatter.info](https://tdor.translivesmatter.info)**.
 
-I wrote about the website and the data behind it not that long ago in the blogpost **[TDoR: Learning more about those we have lost](https://medium.com/@annajayne/tdor-learning-more-about-those-we-have-lost-8043146f402c)**.
+[@preview https://tdor.translivesmatter.info](https://tdor.translivesmatter.info)
 
+
+I wrote about the website and the data behind it not that long ago in the blogpost **[TDoR: Learning more about those we have lost](https://medium.com/@annajayne/tdor-learning-more-about-those-we-have-lost-8043146f402c)**:
+
+
+[@preview TDoR: Learning more about those we have lost](https://medium.com/@annajayne/tdor-learning-more-about-those-we-have-lost-8043146f402c)
+
+----
 
 
 ***About The Author***
