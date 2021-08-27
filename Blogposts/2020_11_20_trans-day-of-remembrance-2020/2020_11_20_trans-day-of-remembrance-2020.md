@@ -15,7 +15,7 @@ Last night we held a [livestream #TDoR memorial service](https://www.youtube.com
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1bKpc2STTos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>&nbsp;</p>
 
-After reading all of the [432](http://tdor.translivesmatter.info/reports/tdor2020) names we had my voice feels a little hoarse now so Lemon & Ginger tea with honey is probably a good idea!
+After reading all of the [432](https://tdor.translivesmatter.info/reports/tdor2020) names we had my voice feels a little hoarse now so Lemon & Ginger tea with honey is probably a good idea!
 
 ![](media/tdor_2020_service1.jpg)
 
@@ -26,10 +26,11 @@ After reading all of the [432](http://tdor.translivesmatter.info/reports/tdor202
 ![](media/tdor_2020_service4.jpg)
   The Trans Day of Remembrance 2020 memorial service at [Inclusive Community Church](https://www.inclusive.church/tdor/).
 
-Unfortunately the killings and suicides don't ever stop, so the names we will be saying at [TDoR 2021](http://tdor.translivesmatter.info/reports/tdor2021) are *already* starting to mount up.
+Unfortunately the killings and suicides don't ever stop, so the names we will be saying at [TDoR 2021](https://tdor.translivesmatter.info/reports/tdor2021) are *already* starting to mount up.
 
 But - at least for now - it's time to rest. Please be safe out there.
 
+---
 
 
 ***About The Author***
