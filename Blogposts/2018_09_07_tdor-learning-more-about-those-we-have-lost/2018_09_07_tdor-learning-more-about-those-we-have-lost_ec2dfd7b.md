@@ -114,7 +114,8 @@ However the site already provides a basic memorial slideshow facility which may 
 
 A companion Twitter account (**[@tdorinfo](https://twitter.com/tdorinfo)**) has also been set up:
 
-[@preview @tdorinfo](https://twitter.com/tdorinfo)
+[@preview(url="https://twitter.com/tdorinfo" title="TransLivesMatter - @TDoRInfo" image-url="https://tdor.translivesmatter.info/images/tdor_candle_jars.jpg" description="Account commemorating #trans people lost to violence and suicide. DMs open. TRIGGER WARNING - distressing content.") @tdorinfo](https://twitter.com/tdorinfo)
+
 
 
 ----
